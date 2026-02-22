@@ -1,0 +1,23 @@
+# env
+.idea/
+.venv/
+
+# pictures
+Data/2010-2023_Biology_MCQs/
+Data/2010-2023_Chemistry_MCQs/
+Data/2010-2023_Chinese_Pratical_Lit/
+Data/2010-2023_Geography_MCQs/
+Data/2010-2023_History_MCQs/
+Data/2010-2023_Math_MCQs/
+Data/2010-2023_Physics_MCQs/
+Data/2010-2023_Political_Science_MCQs/
+
+# api_key
+api_key.py
+
+# results
+results/
+
+# temp
+ObjectiveProblems/
+docs/
